@@ -1,0 +1,42 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Chinese"
+    ]
+  ],
+  "legacy_uid": "5ac72131-a1b7-56a6-e1e9-f45ea7c30be9",
+  "instructors": {
+    "content": [
+      "d82e3897-e386-0049-b694-936646093242"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7c6c7552-f7d4-b485-e14a-8341634d1db4",
+    "website": "21g-104-chinese-iv-regular-spring-2004"
+  },
+  "course_title": "Chinese IV (Regular)",
+  "course_description": "This is the continuing instruction in spoken and written Chinese, with particular emphasis on consolidating basic conversational skills and improving reading confidence and depth.\n\nUpon completion of the course, students should be able to speak Chinese with some fluency on basic conversational topics, achieve a basic level of reading competence within simplified and traditional characters learned plus common compounds, and be able to write short compositions.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.104",
+  "course_image_thumbnail": {
+    "content": "a5e8d00d-1d12-5737-2c9c-4ae626be7f76",
+    "website": "21g-104-chinese-iv-regular-spring-2004"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "a1aa7932-598d-4096-9e05-85c5c4ab5449",
+  "site_short_id": "21g.104-spring-2004",
+  "title": "Course Metadata"
+}
